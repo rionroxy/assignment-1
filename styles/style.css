@@ -52,8 +52,8 @@ main{
 .fist-part{
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .titel-1{
     color: #252432;
@@ -67,7 +67,48 @@ main{
 .container{
     width: 517px;
     height: 203px;
+    gap: 10px;
 }
 .img{
     border-radius: 48px;
+}
+.div-2{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+   
+    margin-bottom: 10px;
+}
+.text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+}
+.div-1{
+    height: 306px;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 80px 50px;
+    border-radius: 15px;
+    margin: 80px 50px;
+   
+}
+ .div-1{
+    padding: 80px 50px;
+ } 
+
+.big-text{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 80px;
+    
+}
+.div-3{
+    width: 180px;
+    height: 121px;
+    text-align: center;
+   
+}
+.align{
+    text-align: center;
 }
