@@ -1,4 +1,6 @@
-
+body{
+    background-color: #F5F8FE;
+}
 
 .inter-normal {
   font-family: "Inter", sans-serif;
@@ -96,7 +98,7 @@ main{
     background-color: rgba(78, 71, 255, 0.1);
     padding: 80px 50px;
     border-radius: 15px;
-    /* margin: 80px 50px; */
+   
    
 }
  .div-1{
@@ -193,7 +195,7 @@ main{
     color: rgba(137, 135, 161, 1);
  }
 .overpro{
-    
+    padding-top: 20px;
 }
 .pro{
     text-align: center;
